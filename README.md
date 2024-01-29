@@ -10,6 +10,12 @@ Virtual Paint Application: Explore the interactive virtual paint application tha
 
 Customizable and Extendable: The project is designed to be customizable and extendable, allowing developers to build upon the existing features or integrate new functionalities.
 
-# demo
+# demos
 
 ![canvas](https://github.com/2003vivek/computer-vision/assets/109408315/94ac89b9-c54d-4eb7-ad60-4cd159d62231)
+
+<hr>
+![Screenshot 2024-01-29 104616](https://github.com/2003vivek/computer-vision/assets/109408315/19b79f9a-f6c2-47bd-9d38-ddd35e342d88)
+
+
+
