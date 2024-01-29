@@ -12,5 +12,4 @@ Customizable and Extendable: The project is designed to be customizable and exte
 
 # demo
 
-<img src="![canvas](https://github.com/2003vivek/computer-vision/assets/109408315/94ac89b9-c54d-4eb7-ad60-4cd159d62231)
-">
+![canvas](https://github.com/2003vivek/computer-vision/assets/109408315/94ac89b9-c54d-4eb7-ad60-4cd159d62231)
