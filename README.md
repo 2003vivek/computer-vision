@@ -9,3 +9,8 @@ Real-time Image Processing: Leverage the capabilities of OpenCV to perform real-
 Virtual Paint Application: Explore the interactive virtual paint application that utilizes hand tracking to draw on a canvas in real-time using a webcam.
 
 Customizable and Extendable: The project is designed to be customizable and extendable, allowing developers to build upon the existing features or integrate new functionalities.
+
+# demo
+
+<img src="![canvas](https://github.com/2003vivek/computer-vision/assets/109408315/94ac89b9-c54d-4eb7-ad60-4cd159d62231)
+">
